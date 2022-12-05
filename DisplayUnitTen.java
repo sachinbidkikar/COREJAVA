@@ -3,8 +3,10 @@
 import java.util.Scanner;
 public class DisplayUnitTen
 {
+    static int a = 1;
     public static void main(String args[])
     {
+
         Scanner sc = new Scanner(System.in);
         System.out.println("enter the Number");
         int num = sc.nextInt();
